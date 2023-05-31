@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Time
+
+Start Time: 9:30 PM 
+End Time: 11:40 AM
+
+Brake TIme: 11:30PM- 6:30AM
+
 ## Available Scripts
 
 In the project directory, you can run:
